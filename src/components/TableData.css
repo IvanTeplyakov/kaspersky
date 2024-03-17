@@ -1,0 +1,10 @@
+.text{
+    cursor: pointer
+}
+
+.active{
+    padding: 2px 3px;
+    background: red;
+    border-radius: 3px;
+    margin-right: 2px;
+}
